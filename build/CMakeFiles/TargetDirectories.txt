@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CS2-Calculator-SelimMeligy/build/CMakeFiles/calculator.dir
+C:/Users/LENOVO/CS2-Calculator-SelimMeligy/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/LENOVO/CS2-Calculator-SelimMeligy/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^C:\USERS\LENOVO\CS2-CALCULATOR-SELIMMELIGY\BUILD\CMAKEFILES\A9C36A75735186563CB47F3CB762730C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/LENOVO/CS2-Calculator-SelimMeligy -BC:/Users/LENOVO/CS2-Calculator-SelimMeligy/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/LENOVO/CS2-Calculator-SelimMeligy/build/Calculator.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
